@@ -1,8 +1,0 @@
-This is a test
-Horse 1994
-Cat   2002
-Dog   2003
-Rabbit	2027
-Rock   2002
-Blue   1989
-
