@@ -1,0 +1,6 @@
+Git    5
+vim    4
+Linux  6
+Latex  6
+c++    7
+python 7

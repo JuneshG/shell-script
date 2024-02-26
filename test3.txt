@@ -1,0 +1,8 @@
+Number Theory:     80
+Linear Algebra:    70
+Computer Vision:   60
+IoT:               70
+FL:                70
+Networking:        60
+
+
